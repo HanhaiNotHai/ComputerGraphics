@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "三维模型表示方法", "三维模型表示方法\三维模型表示方法.vcxproj", "{5A791943-0326-42BF-BA7C-86B7E53D263F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OBJ格式的多边形表示模型", "OBJ格式的多边形表示模型\OBJ格式的多边形表示模型.vcxproj", "{BE625BE7-E9AE-4045-88E6-2B57AC25CF17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A791943-0326-42BF-BA7C-86B7E53D263F}.Debug|x64.ActiveCfg = Debug|x64
+		{5A791943-0326-42BF-BA7C-86B7E53D263F}.Debug|x64.Build.0 = Debug|x64
+		{5A791943-0326-42BF-BA7C-86B7E53D263F}.Debug|x86.ActiveCfg = Debug|Win32
+		{5A791943-0326-42BF-BA7C-86B7E53D263F}.Debug|x86.Build.0 = Debug|Win32
+		{5A791943-0326-42BF-BA7C-86B7E53D263F}.Release|x64.ActiveCfg = Release|x64
+		{5A791943-0326-42BF-BA7C-86B7E53D263F}.Release|x64.Build.0 = Release|x64
+		{5A791943-0326-42BF-BA7C-86B7E53D263F}.Release|x86.ActiveCfg = Release|Win32
+		{5A791943-0326-42BF-BA7C-86B7E53D263F}.Release|x86.Build.0 = Release|Win32
+		{BE625BE7-E9AE-4045-88E6-2B57AC25CF17}.Debug|x64.ActiveCfg = Debug|x64
+		{BE625BE7-E9AE-4045-88E6-2B57AC25CF17}.Debug|x64.Build.0 = Debug|x64
+		{BE625BE7-E9AE-4045-88E6-2B57AC25CF17}.Debug|x86.ActiveCfg = Debug|Win32
+		{BE625BE7-E9AE-4045-88E6-2B57AC25CF17}.Debug|x86.Build.0 = Debug|Win32
+		{BE625BE7-E9AE-4045-88E6-2B57AC25CF17}.Release|x64.ActiveCfg = Release|x64
+		{BE625BE7-E9AE-4045-88E6-2B57AC25CF17}.Release|x64.Build.0 = Release|x64
+		{BE625BE7-E9AE-4045-88E6-2B57AC25CF17}.Release|x86.ActiveCfg = Release|Win32
+		{BE625BE7-E9AE-4045-88E6-2B57AC25CF17}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A45DCE52-D76A-4708-8B5D-3F60EAF63B64}
+	EndGlobalSection
+EndGlobal

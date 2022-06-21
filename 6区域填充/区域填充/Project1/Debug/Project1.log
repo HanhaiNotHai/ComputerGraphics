@@ -1,0 +1,5 @@
+﻿  proj1.cpp
+E:\学习\2上\计图\6区域填充\区域填充\Project1\proj1.cpp(73,30): warning C4018: “<”: 有符号/无符号不匹配
+E:\学习\2上\计图\6区域填充\区域填充\Project1\proj1.cpp(159,31): warning C4018: “<”: 有符号/无符号不匹配
+E:\学习\2上\计图\6区域填充\区域填充\Project1\proj1.cpp(191,28): warning C4018: “<”: 有符号/无符号不匹配
+  Project1.vcxproj -> E:\学习\2上\计图\6区域填充\区域填充\Debug\Project1.exe

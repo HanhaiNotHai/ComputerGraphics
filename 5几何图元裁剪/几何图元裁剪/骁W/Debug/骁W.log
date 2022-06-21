@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(骁W.vcxproj, 骁外能裁.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  移动裁切.cpp
+E:\学习\2上\计图\5几何图元裁剪\几何图元裁剪\骁W\移动裁切.cpp(58,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\学习\2上\计图\5几何图元裁剪\几何图元裁剪\骁W\移动裁切.cpp(129,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\学习\2上\计图\5几何图元裁剪\几何图元裁剪\骁W\移动裁切.cpp(353,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\学习\2上\计图\5几何图元裁剪\几何图元裁剪\骁W\移动裁切.cpp(508,22): warning C4018: “<”: 有符号/无符号不匹配
+  骁W.vcxproj -> E:\学习\2上\计图\5几何图元裁剪\几何图元裁剪\Debug\移动裁切.exe

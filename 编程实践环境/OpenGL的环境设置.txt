@@ -1,0 +1,38 @@
+第一种OpenGL环境配置
+1、将OpenGL\LIB目录下的所有文件，复制到VC安装目录中的Lib下，（千万别连同目录一同复制）例如
+OpenGL\lib\glaux.lib文件，复制后，C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\glaux.lib
+
+2、将OpenGL\INCLUDE目录下的所有文件，复制到VC安装目录中的include下，例如
+OpenGL\lib\GLUT.H文件，复制后，C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\GLUT.H
+
+3、将OpenGL\DLL目录下的所有文件，复制到VC安装目录中的bin下，例如
+OpenGL\DLL\GLUT.DLL文件，复制后，C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\GLUT.DLL
+
+//////////////////////////////////////////////////////////////
+第二种OpenGL环境配置
+
+1、进入VC程序界面，在自己新建的项目中，进行项目属性配置，且假定课程的整个OpenGL包存放在C:\OpenGL
+
+头文件存放路径配置：右键点击自建项目-》属性-》c/c++ -》附加包含目录，添加本地的OpenGL\INCLUDE，即C:\OpenGL\INCLUDE
+
+链接库存放路径配置：右键点击自建项目-》属性-》链接器-》附加库目录，添加本地的OpenGL\LIB，即C:\OpenGL\LIB
+
+动态链接库路径配置：将OpenGL\DLL目录下的所有文件，复制到VC安装目录中的bin下，例如
+C:\OpenGL\DLL\GLUT.DLL文件，复制后，C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\GLUT.DLL
+或者
+
+将OpenGL\DLL路径添加到系统的Path中
+
+//////////////////////////////////////////////////////////////
+不管第一种还是第二种，在环境配置之后，调试OpenGL程序以前，需要添加若干附加依赖项
+右键点击自建项目-》属性-》链接器-》输入-》附加依赖项，输入opengl32.lib;glu32.lib;glut32.lib
+
+
+
+
+
+
+
+
+
+

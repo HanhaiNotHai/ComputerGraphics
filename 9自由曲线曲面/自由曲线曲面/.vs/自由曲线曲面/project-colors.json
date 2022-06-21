@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dccf1c5c-3fa3-4f08-97c3-c11c90ea32fc": {
+      "ProjectGuid": "dccf1c5c-3fa3-4f08-97c3-c11c90ea32fc",
+      "DisplayName": "自由曲线曲面",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

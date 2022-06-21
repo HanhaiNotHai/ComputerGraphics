@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5a791943-0326-42bf-ba7c-86b7e53d263f": {
+      "ProjectGuid": "5a791943-0326-42bf-ba7c-86b7e53d263f",
+      "DisplayName": "三维模型表示方法",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "0727e467-b206-4f47-bbaf-ac25989f59cc": {
+      "ProjectGuid": "0727e467-b206-4f47-bbaf-ac25989f59cc",
+      "DisplayName": "2OBJ 格式的多边形表示模型",
+      "ColorIndex": 1
+    },
+    "be625be7-e9ae-4045-88e6-2b57ac25cf17": {
+      "ProjectGuid": "be625be7-e9ae-4045-88e6-2b57ac25cf17",
+      "DisplayName": "OBJ格式的多边形表示模型",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

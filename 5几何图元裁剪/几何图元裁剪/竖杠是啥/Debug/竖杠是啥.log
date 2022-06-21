@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(竖杠是啥.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  测试.cpp
+  竖杠是啥.vcxproj -> E:\学习\2上\计图\5几何图元裁剪\几何图元裁剪\Debug\测试.exe

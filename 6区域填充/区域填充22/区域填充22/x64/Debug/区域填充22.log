@@ -1,0 +1,16 @@
+﻿区域填充.obj : error LNK2019: 无法解析的外部符号 __imp_glBegin，函数 "public: void __cdecl Pg::drawPg(void)" (?drawPg@Pg@@QEAAXXZ) 中引用了该符号
+区域填充.obj : error LNK2019: 无法解析的外部符号 __imp_glClear，函数 "void __cdecl display(void)" (?display@@YAXXZ) 中引用了该符号
+区域填充.obj : error LNK2019: 无法解析的外部符号 __imp_glClearColor，函数 "void __cdecl display(void)" (?display@@YAXXZ) 中引用了该符号
+区域填充.obj : error LNK2019: 无法解析的外部符号 __imp_glColor3f，函数 "void __cdecl display(void)" (?display@@YAXXZ) 中引用了该符号
+区域填充.obj : error LNK2019: 无法解析的外部符号 __imp_glEnd，函数 "public: void __cdecl Pg::drawPg(void)" (?drawPg@Pg@@QEAAXXZ) 中引用了该符号
+区域填充.obj : error LNK2019: 无法解析的外部符号 __imp_glLineWidth，函数 "void __cdecl display(void)" (?display@@YAXXZ) 中引用了该符号
+区域填充.obj : error LNK2019: 无法解析的外部符号 __imp_glLoadIdentity，函数 "void __cdecl reshape(int,int)" (?reshape@@YAXHH@Z) 中引用了该符号
+区域填充.obj : error LNK2019: 无法解析的外部符号 __imp_glMatrixMode，函数 "void __cdecl reshape(int,int)" (?reshape@@YAXHH@Z) 中引用了该符号
+区域填充.obj : error LNK2019: 无法解析的外部符号 __imp_glOrtho，函数 "void __cdecl reshape(int,int)" (?reshape@@YAXHH@Z) 中引用了该符号
+区域填充.obj : error LNK2019: 无法解析的外部符号 __imp_glVertex2f，函数 "void __cdecl DDA(int,int,int,int)" (?DDA@@YAXHHHH@Z) 中引用了该符号
+区域填充.obj : error LNK2019: 无法解析的外部符号 __imp_glVertex3f，函数 "void __cdecl draw_coordinate(void)" (?draw_coordinate@@YAXXZ) 中引用了该符号
+区域填充.obj : error LNK2019: 无法解析的外部符号 __imp_glViewport，函数 "void __cdecl reshape(int,int)" (?reshape@@YAXHH@Z) 中引用了该符号
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x64\opengl32.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x64\glu32.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x64\glut32.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+E:\学习\2上\计图\6区域填充\区域填充22\x64\Debug\区域填充22.exe : fatal error LNK1120: 12 个无法解析的外部命令

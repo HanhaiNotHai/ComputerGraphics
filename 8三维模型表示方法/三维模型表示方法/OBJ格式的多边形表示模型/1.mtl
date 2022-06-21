@@ -1,0 +1,15 @@
+#  ==========================================================================
+#  Wavefront Material file
+#  Exported by Red-i Productions' "Riptide Pro"
+#  (a commercial plugin for Cinema 4D PC & Mac, R10 or later)
+#  
+#  Red-i Productions
+#  http://skinprops.com
+#  
+#  ==========================================================================
+
+newmtl Ceramic
+Kd 1.000000 0.960784 0.811765
+Ks 1.000000 1.000000 1.000000
+illum 2
+Ns 50.781250

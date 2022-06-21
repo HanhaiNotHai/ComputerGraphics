@@ -1,0 +1,55 @@
+1、（Right）Transformation：各类变换，模型的拓扑和几何变化（缩放改变形状吗，不一定，看是否比例缩放）；W2W，W2M，M2V，V2W，Projection  
+2、rasterization到底干点什么
+3、透视投影和平行投影，各自的特点和发挥的作用
+4、Which option describes the main difference of parallel projection and perspective projection?
+5、各类裁剪算法，线段裁剪，多边形裁剪 算法的具体流程
+6、filling：种子点填充，四领域、八邻域，扫描线填充，各自的算法过程和特点
+7、visibility/消隐：画家算法，z-buffer，扫描线，光线投射/追踪；图像空间，物体空间/场景空间 
+8、三维模型的表示方法：体素，空间剖分，边界表示，多边形网格， 
+9、Bezier和Bspline：基本方程，定义域，有效域，特点（过首末点等），一个控制点关联多少个曲线段。
+10、lighting和shading（插值三角形内部采样点，每个点分别计算光照）各自用于解决什么问题，
+11、光的类型（三类），Gouraud 、phong lighting/reflecting和shading，分别是什么，有特点。高光什么时候产生，什么时候消失等
+12、光线追踪和辐射度（两种全局光照，考虑indirect light），具体算法过程是怎么样的，产生的效果有什么区别。
+13、纹理映射的过程。纹理映射+简单几何生成一个对象，相比于直接使用细节丰富的几何对象+光照（颜色），有什么区别？
+
+
+前10选择 后面大题
+1.坐标系：model：matrix、world、view （右乘） model->view->投影
+p'=p·v·m
+缩放 广义的形状变换 shear scale
+2.1. touyingmiancaiyang
+   2.zenmeyangzenmayangzenmaya ng
+采样面找采样点逼近要画的图形
+离散绘制整个场景
+不考反走样 会不会考啊 考一点点
+3.透视投影改变尺寸值
+5.编码一定知道的 九宫格
+多边形大致怎么裁 逆时针 点内外 出入点
+很重要
+不用写代码
+流程写一下
+6.扫描线很重要 第一步第二步
+边表
+7.消隐
+图像、景物空间
+zbuffer
+画家排序zbuffer不排序
+scene
+举手问单词 这个都不会啊 这个是什么
+8.空间剖分 体素 大致知道
+9.bezir b样条 一个考一题 定义域 控制点 哪几个区域 基本就会考
+11.三个系数
+三个系数
+全局光照也可以shading 扯淡 空间很复杂 通常不shading
+12.光追、辐射度 非常重要
+辐射度 正儿八经 全局做一遍 任意角度看都渲染好
+光追 就一个视角
+13.很简单了嘛
+大致是一个什么过程
+双线性差值 一定要收敛
+这个叫什么、、、、光栅化
+目标图像 target 对应原图哪个(颜色)pixel targer->source
+没那么细腻
+bump 改变表面法向
+改变表面
+相对原来位置的偏移

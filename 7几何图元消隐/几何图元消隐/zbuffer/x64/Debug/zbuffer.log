@@ -1,0 +1,33 @@
+﻿  zbuffer.cpp
+zbuffer.obj : error LNK2019: 无法解析的外部符号 __imp_glBegin，函数 "void __cdecl display(void)" (?display@@YAXXZ) 中引用了该符号
+zbuffer.obj : error LNK2019: 无法解析的外部符号 __imp_glClear，函数 "void __cdecl display(void)" (?display@@YAXXZ) 中引用了该符号
+zbuffer.obj : error LNK2019: 无法解析的外部符号 __imp_glClearColor，函数 "void __cdecl display(void)" (?display@@YAXXZ) 中引用了该符号
+zbuffer.obj : error LNK2019: 无法解析的外部符号 __imp_glColor3f，函数 "void __cdecl display(void)" (?display@@YAXXZ) 中引用了该符号
+zbuffer.obj : error LNK2019: 无法解析的外部符号 __imp_glDepthFunc，函数 "void __cdecl keyboard(unsigned char,int,int)" (?keyboard@@YAXEHH@Z) 中引用了该符号
+zbuffer.obj : error LNK2019: 无法解析的外部符号 __imp_glDisable，函数 "void __cdecl keyboard(unsigned char,int,int)" (?keyboard@@YAXEHH@Z) 中引用了该符号
+zbuffer.obj : error LNK2019: 无法解析的外部符号 __imp_glEnable，函数 "void __cdecl keyboard(unsigned char,int,int)" (?keyboard@@YAXEHH@Z) 中引用了该符号
+zbuffer.obj : error LNK2019: 无法解析的外部符号 __imp_glEnd，函数 "void __cdecl display(void)" (?display@@YAXXZ) 中引用了该符号
+zbuffer.obj : error LNK2019: 无法解析的外部符号 __imp_glLoadIdentity，函数 "void __cdecl reshape(int,int)" (?reshape@@YAXHH@Z) 中引用了该符号
+zbuffer.obj : error LNK2019: 无法解析的外部符号 __imp_glMatrixMode，函数 "void __cdecl reshape(int,int)" (?reshape@@YAXHH@Z) 中引用了该符号
+zbuffer.obj : error LNK2019: 无法解析的外部符号 __imp_glOrtho，函数 "void __cdecl reshape(int,int)" (?reshape@@YAXHH@Z) 中引用了该符号
+zbuffer.obj : error LNK2019: 无法解析的外部符号 __imp_glVertex3f，函数 "void __cdecl draw_coordinate(void)" (?draw_coordinate@@YAXXZ) 中引用了该符号
+zbuffer.obj : error LNK2019: 无法解析的外部符号 __imp_glVertex3i，函数 "void __cdecl display(void)" (?display@@YAXXZ) 中引用了该符号
+zbuffer.obj : error LNK2019: 无法解析的外部符号 __imp_glViewport，函数 "void __cdecl reshape(int,int)" (?reshape@@YAXHH@Z) 中引用了该符号
+zbuffer.obj : error LNK2019: 无法解析的外部符号 gluLookAt，函数 "void __cdecl reshape(int,int)" (?reshape@@YAXHH@Z) 中引用了该符号
+zbuffer.obj : error LNK2019: 无法解析的外部符号 __imp_glutInit，函数 main 中引用了该符号
+zbuffer.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitDisplayMode，函数 main 中引用了该符号
+zbuffer.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitWindowPosition，函数 main 中引用了该符号
+zbuffer.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitWindowSize，函数 main 中引用了该符号
+zbuffer.obj : error LNK2019: 无法解析的外部符号 __imp_glutMainLoop，函数 main 中引用了该符号
+zbuffer.obj : error LNK2019: 无法解析的外部符号 __imp_glutCreateWindow，函数 main 中引用了该符号
+zbuffer.obj : error LNK2019: 无法解析的外部符号 __imp_glutPostRedisplay，函数 "void __cdecl keyboard(unsigned char,int,int)" (?keyboard@@YAXEHH@Z) 中引用了该符号
+zbuffer.obj : error LNK2019: 无法解析的外部符号 __imp_glutSwapBuffers，函数 "void __cdecl display(void)" (?display@@YAXXZ) 中引用了该符号
+zbuffer.obj : error LNK2019: 无法解析的外部符号 __imp_glutDisplayFunc，函数 main 中引用了该符号
+zbuffer.obj : error LNK2019: 无法解析的外部符号 __imp_glutReshapeFunc，函数 main 中引用了该符号
+zbuffer.obj : error LNK2019: 无法解析的外部符号 __imp_glutKeyboardFunc，函数 main 中引用了该符号
+zbuffer.obj : error LNK2019: 无法解析的外部符号 __imp_glutMouseFunc，函数 main 中引用了该符号
+zbuffer.obj : error LNK2019: 无法解析的外部符号 __imp_glutSolidSphere，函数 "void __cdecl display(void)" (?display@@YAXXZ) 中引用了该符号
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x64\opengl32.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x64\glu32.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x64\glut32.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+E:\学习\2上\计图\7几何图元消隐\几何图元消隐\x64\Debug\zbuffer.exe : fatal error LNK1120: 28 个无法解析的外部命令

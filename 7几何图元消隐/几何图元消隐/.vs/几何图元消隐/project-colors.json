@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "99be9625-2cef-4621-8bf2-5c9329aca01c": {
+      "ProjectGuid": "99be9625-2cef-4621-8bf2-5c9329aca01c",
+      "DisplayName": "zbuffer",
+      "ColorIndex": 0
+    },
+    "4c9fdead-b4dd-490a-a179-0190dc19e3b7": {
+      "ProjectGuid": "4c9fdead-b4dd-490a-a179-0190dc19e3b7",
+      "DisplayName": "缓冲消隐",
+      "ColorIndex": 1
+    },
+    "38efbbc2-7aa2-447e-867c-040c9b9ab002": {
+      "ProjectGuid": "38efbbc2-7aa2-447e-867c-040c9b9ab002",
+      "DisplayName": "背面剔除消隐",
+      "ColorIndex": 2
+    },
+    "2f457fc9-9e5b-4ff5-a921-65654854466b": {
+      "ProjectGuid": "2f457fc9-9e5b-4ff5-a921-65654854466b",
+      "DisplayName": "z-Buffer",
+      "ColorIndex": 3
+    },
+    "02cfc027-487a-4f34-bfef-31209670af4b": {
+      "ProjectGuid": "02cfc027-487a-4f34-bfef-31209670af4b",
+      "DisplayName": "z-Buffer转模型",
+      "ColorIndex": 4
+    },
+    "fae1320e-d62d-4b36-8ac7-3cf508774145": {
+      "ProjectGuid": "fae1320e-d62d-4b36-8ac7-3cf508774145",
+      "DisplayName": "z-Buffer转模型",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

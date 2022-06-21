@@ -1,0 +1,22 @@
+﻿  z-Buffer转模型.cpp
+E:\学习\2上\计图\7几何图元消隐\几何图元消隐\z-Buffer转模型\z-Buffer转模型.cpp(542,42): warning C4099: “my_3Dvector”: 类型名称以前使用“class”现在使用的是“struct”
+E:\学习\2上\计图\7几何图元消隐\几何图元消隐\z-Buffer转模型\My_3DVector.h(14): message : 参见“my_3Dvector”的声明
+E:\学习\2上\计图\7几何图元消隐\几何图元消隐\z-Buffer转模型\z-Buffer转模型.cpp(542,88): warning C4099: “my_3Dvector”: 类型名称以前使用“class”现在使用的是“struct”
+E:\学习\2上\计图\7几何图元消隐\几何图元消隐\z-Buffer转模型\My_3DVector.h(14): message : 参见“my_3Dvector”的声明
+E:\学习\2上\计图\7几何图元消隐\几何图元消隐\z-Buffer转模型\z-Buffer转模型.cpp(544,33): warning C4099: “my_3Dvector”: 类型名称以前使用“class”现在使用的是“struct”
+E:\学习\2上\计图\7几何图元消隐\几何图元消隐\z-Buffer转模型\My_3DVector.h(14): message : 参见“my_3Dvector”的声明
+E:\学习\2上\计图\7几何图元消隐\几何图元消隐\z-Buffer转模型\z-Buffer转模型.cpp(552,46): warning C4099: “my_3Dvector”: 类型名称以前使用“class”现在使用的是“struct”
+E:\学习\2上\计图\7几何图元消隐\几何图元消隐\z-Buffer转模型\My_3DVector.h(14): message : 参见“my_3Dvector”的声明
+E:\学习\2上\计图\7几何图元消隐\几何图元消隐\z-Buffer转模型\z-Buffer转模型.cpp(592,28): warning C4099: “my_3Dvector”: 类型名称以前使用“class”现在使用的是“struct”
+E:\学习\2上\计图\7几何图元消隐\几何图元消隐\z-Buffer转模型\My_3DVector.h(14): message : 参见“my_3Dvector”的声明
+E:\学习\2上\计图\7几何图元消隐\几何图元消隐\z-Buffer转模型\z-Buffer转模型.cpp(605,51): warning C4099: “my_3Dvector”: 类型名称以前使用“class”现在使用的是“struct”
+E:\学习\2上\计图\7几何图元消隐\几何图元消隐\z-Buffer转模型\My_3DVector.h(14): message : 参见“my_3Dvector”的声明
+E:\学习\2上\计图\7几何图元消隐\几何图元消隐\z-Buffer转模型\z-Buffer转模型.cpp(640,30): warning C4099: “my_3Dvector”: 类型名称以前使用“class”现在使用的是“struct”
+E:\学习\2上\计图\7几何图元消隐\几何图元消隐\z-Buffer转模型\My_3DVector.h(14): message : 参见“my_3Dvector”的声明
+E:\学习\2上\计图\7几何图元消隐\几何图元消隐\z-Buffer转模型\z-Buffer转模型.cpp(671,30): warning C4099: “my_3Dvector”: 类型名称以前使用“class”现在使用的是“struct”
+E:\学习\2上\计图\7几何图元消隐\几何图元消隐\z-Buffer转模型\My_3DVector.h(14): message : 参见“my_3Dvector”的声明
+E:\学习\2上\计图\7几何图元消隐\几何图元消隐\z-Buffer转模型\z-Buffer转模型.cpp(698,28): warning C4099: “my_3Dvector”: 类型名称以前使用“class”现在使用的是“struct”
+E:\学习\2上\计图\7几何图元消隐\几何图元消隐\z-Buffer转模型\My_3DVector.h(14): message : 参见“my_3Dvector”的声明
+E:\学习\2上\计图\7几何图元消隐\几何图元消隐\z-Buffer转模型\z-Buffer转模型.cpp(723,28): warning C4099: “my_3Dvector”: 类型名称以前使用“class”现在使用的是“struct”
+E:\学习\2上\计图\7几何图元消隐\几何图元消隐\z-Buffer转模型\My_3DVector.h(14): message : 参见“my_3Dvector”的声明
+  z-Buffer转模型.vcxproj -> E:\学习\2上\计图\7几何图元消隐\几何图元消隐\Debug\z-Buffer转模型.exe

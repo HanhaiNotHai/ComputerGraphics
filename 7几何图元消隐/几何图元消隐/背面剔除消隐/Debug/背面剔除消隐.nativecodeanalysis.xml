@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\</FILEPATH>
+      <FILENAME>GLUT.H</FILENAME>
+      <LINE>146</LINE>
+      <COLUMN>28</COLUMN>
+    </SFA>
+    <DEFECTCODE>28251</DEFECTCODE>
+    <DESCRIPTION>“exit”的批注不一致: 此实例包含 无批注。请参见 c:\program files (x86)\windows kits\10\include\10.0.19041.0\ucrt\stdlib.h(56)。</DESCRIPTION>
+    <FUNCTION>exit</FUNCTION>
+    <DECORATED>exit</DECORATED>
+    <FUNCLINE>146</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

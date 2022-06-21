@@ -1,0 +1,4 @@
+﻿  main.cpp
+\\Zs-yoga-duet\学习\2上\计图\9自由曲线曲面\freeform_head.h(98,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+\\Zs-yoga-duet\学习\2上\计图\9自由曲线曲面\freeform_head.h(246,38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+LINK : fatal error LNK1104: 无法打开文件“glut32.lib”

@@ -1,0 +1,3 @@
+﻿  Transformation_3D.cpp
+E:\学习\2上\计图\4三维几何变换\Transformation_3D.cpp(332,29): warning C4101: “translate_matrix”: 未引用的局部变量
+  三维几何变换.vcxproj -> E:\学习\2上\计图\4三维几何变换\三维几何变换\Debug\三维几何变换.exe
